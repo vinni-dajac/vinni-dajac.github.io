@@ -3,6 +3,4 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Vinni Dajac is a Data Scientist at the Analytics, Computing, and Complex Systems (ACCeSs) Laboratory of the Asian Institute of Management (AIM), where he is also pursuing his PhD in Data Science. He completed his MS in Physics degree in early 2021 at University of the Philippines – Diliman, where he previously taught Computational Analysis and Modeling to Physics majors, in addition to Elementary Physics classes. Prior to shifting to full-time research at ACCeSs@AIM, he also taught Computational Physics at Philippine Science High School – Main Campus, where he also supervised senior research projects on Complex Systems and Engineering Mechanics. His current research interests include agent-based modeling, machine learning, and reinforcement learning.
